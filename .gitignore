@@ -6,3 +6,11 @@ gradle-app.setting
 
 # Avoid ignoring Gradle wrapper jar file (.jar files are usually ignored)
 !gradle-wrapper.jar
+
+# ignore keys file
+app/src/main/res/values/keys.xml
+
+# ignore Android Studio Files
+*.iml
+.idea/
+local.properties

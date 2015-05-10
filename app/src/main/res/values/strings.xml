@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">share.ly</string>
+    <string name="app_name_for_share">Share shortened</string>
+    <string name="share_shortened_uri">Share shortened Uri with …</string>
+</resources>
